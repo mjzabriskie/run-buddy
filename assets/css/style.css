@@ -105,6 +105,7 @@ section {
   color: #024e76;
   width: 100%;
   margin-bottom: 15px;
+  border-radius: 10px;
 }
 
 .hero-form label {
